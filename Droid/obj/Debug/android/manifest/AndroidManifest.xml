@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.mattaniahbeezy.movielist">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="15" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:label="MovieList" android:name="mono.android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="MovieList.Droid" android:name="md5d3290ee6ca349102245ee05dd3cbc4d1.MainActivity" />
+    <activity android:label="MovieDetailActivity" android:name="md5d3290ee6ca349102245ee05dd3cbc4d1.MovieDetailActivity" />
+    <activity android:label="LoginActivity" android:name="md5d3290ee6ca349102245ee05dd3cbc4d1.LoginActivity" />
+    <activity android:label="ActorDetail" android:name="md5d3290ee6ca349102245ee05dd3cbc4d1.ActorDetailActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.mattaniahbeezy.movielist.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.com.mattaniahbeezy.movielist" />
+      </intent-filter>
+    </receiver>
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="MovieList.Droid" android:name="com.mattaniahbeezy.movielist.TrialSplashScreen" android:theme="@style/Mono.Android.Theme.Splash" android:noHistory="true">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+  </application>
+</manifest>

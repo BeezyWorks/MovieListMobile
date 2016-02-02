@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="MovieList\MovieList.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovieList\BusinessLayer\Models\Actor.cs">
+    <Files>
+      <File FileName="Droid\MainActivity.cs" Line="33" Column="32" />
+      <File FileName="MovieList\BusinessLayer\DataManager.cs" Line="42" Column="11" />
+      <File FileName="MovieList\ServerAccessLayer\BaseSereverAccessor.cs" Line="59" Column="19" />
+      <File FileName="MovieList\ServerAccessLayer\Constants.cs" Line="8" Column="3" />
+      <File FileName="MovieList\BusinessLayer\Models\Movie.cs" Line="11" Column="40" />
+      <File FileName="Droid\MovieAdapter.cs" Line="50" Column="1" />
+      <File FileName="Droid\MovieDetailActivity.cs" Line="35" Column="54" />
+      <File FileName="Droid\ActorsArrayAdapter.cs" Line="40" Column="86" />
+      <File FileName="MovieList\BusinessLayer\Models\Actor.cs" Line="11" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MovieList.Droid AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
