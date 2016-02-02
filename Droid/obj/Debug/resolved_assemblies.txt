@@ -1,5 +1,4 @@
 C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\assemblies\MovieList.Droid.dll
-C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\assemblies\FormsViewGroup.dll
 C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\assemblies\FortySevenDeg.SwipeListView.dll
 C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\assemblies\Mono.Android.dll
 C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\assemblies\MovieList.dll
@@ -11,13 +10,7 @@ C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\assemblies\Syste
 C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\assemblies\Xamarin.Android.Support.Design.dll
 C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
 C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\assemblies\Xamarin.Android.Support.v7.AppCompat.dll
-C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\assemblies\Xamarin.Android.Support.v7.CardView.dll
-C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\assemblies\Xamarin.Android.Support.v7.MediaRouter.dll
-C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\assemblies\Xamarin.Forms.Core.dll
-C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\assemblies\Xamarin.Forms.Platform.Android.dll
-C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\assemblies\Xamarin.Forms.Platform.dll
-C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\assemblies\Xamarin.Forms.Xaml.dll
-C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\assemblies\Xamarin.Insights.dll
+C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\assemblies\Xamarin.Android.Support.v7.RecyclerView.dll
 C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\assemblies\System.Collections.Concurrent.dll
 C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\assemblies\System.Collections.dll
 C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\assemblies\System.ComponentModel.Annotations.dll

@@ -2,7 +2,7 @@ package md5d3290ee6ca349102245ee05dd3cbc4d1;
 
 
 public class LoginActivity
-	extends android.app.Activity
+	extends android.support.v7.app.AppCompatActivity
 	implements
 		mono.android.IGCUserPeer
 {
