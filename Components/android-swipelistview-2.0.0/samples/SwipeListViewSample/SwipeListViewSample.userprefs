@@ -1,0 +1,40 @@
+﻿<Properties StartupItem="SwipeListViewSample.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\MovieList\BusinessLayer\DataManager.cs">
+    <Files>
+      <File FileName="..\..\..\..\Droid\Resources\values\EmptyXmlFile.xml" Line="6" Column="28" />
+      <File FileName="..\..\..\..\MovieList\ServerAccessLayer\BaseSereverAccessor.cs" Line="89" Column="4" />
+      <File FileName="..\..\..\..\MovieList\BusinessLayer\Models\User.cs" Line="10" Column="36" />
+      <File FileName="..\..\..\..\MovieList\ServerAccessLayer\Constants.cs" Line="13" Column="57" />
+      <File FileName="..\..\..\..\MovieList\BusinessLayer\DataManager.cs" Line="81" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MovieList" expanded="True">
+            <Node name="MovieList" expanded="True">
+              <Node name="BusinessLayer" expanded="True">
+                <Node name="Models" expanded="True" />
+                <Node name="DataManager.cs" selected="True" />
+              </Node>
+              <Node name="ServerAccessLayer" expanded="True" />
+            </Node>
+            <Node name="MovieList.Droid" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="values" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+          <Node />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\MovieDetailActivity.cs" line="53" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SwipeListViewSample AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
