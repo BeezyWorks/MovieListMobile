@@ -29,6 +29,9 @@ C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\res\values\empty
 C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\R.cs.flag
 C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\uploadflags.txt
 C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\res\values\style.xml
+C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\res\layout\movieviewholderlayout.xml
+C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\bin\Debug\XamarinItemTouchHelper.dll
+C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\res\layout\titlepage.xml
 C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\bin\Debug\MovieList.dll.mdb
 C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\MovieList.Droid.dll.mdb
 C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\bin\Debug\MovieList.Droid.dll.mdb

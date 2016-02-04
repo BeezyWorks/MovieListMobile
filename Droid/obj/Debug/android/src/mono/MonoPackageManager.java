@@ -86,6 +86,7 @@ class MonoPackageManager_Resources {
 		"Xamarin.Android.Support.v4.dll",
 		"Xamarin.Android.Support.v7.AppCompat.dll",
 		"Xamarin.Android.Support.v7.RecyclerView.dll",
+		"XamarinItemTouchHelper.dll",
 		"System.Collections.Concurrent.dll",
 		"System.Collections.dll",
 		"System.ComponentModel.Annotations.dll",

@@ -3,12 +3,15 @@
   <Jars></Jars>
   <ResolvedResourceDirectories>
     <ResolvedResourceDirectory>C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\__library_projects__\FortySevenDeg.SwipeListView\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\__library_projects__\XamarinItemTouchHelper\library_project_imports\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
     <ResolvedAssetDirectory>C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\__library_projects__\FortySevenDeg.SwipeListView\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\__library_projects__\XamarinItemTouchHelper\library_project_imports\assets</ResolvedAssetDirectory>
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
     <ResolvedResourceDirectoryStamp>C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\__library_projects__\FortySevenDeg.SwipeListView.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Mattaniah\Documents\Projects\MovieList\Droid\obj\Debug\__library_projects__\XamarinItemTouchHelper.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>
